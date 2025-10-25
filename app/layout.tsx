@@ -11,9 +11,9 @@ const minecraftFont = Press_Start_2P({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Nico...",
+  description: "Te amo, Nico...",
+  generator: "surge.xyz",
 }
 
 export default function RootLayout({
